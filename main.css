@@ -8,5 +8,25 @@ body {
 }
 
 h1 {
-  padding: 20px 0px 10px 0px;
+  color: white;
+  font-size: 20pt
+}
+
+h3 {
+  padding: 10px 0px 1px 0px;
+  color: white;
+  font-size: 20pt;
+}
+
+/* link text */
+a {
+color: white;
+text-decoration: none;
+}
+
+
+/* Centers images */
+
+img {
+  margin-left: 0px;
 }
